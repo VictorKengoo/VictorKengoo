@@ -1,6 +1,6 @@
 ### Hi there! 😄👋
 
-My name is **Victor Kodama** and I have been working as a Java Full Stack Development Instructor since 2021 at [Digital House](https://www.digitalhouse.com/br/?gclid=Cj0KCQjwlMaGBhD3ARIsAPvWd6hi1Yp3XA5WafXdnazcxevCIA0Vax4zWW9vkZbrNt_jGIMvcBvo6JwaAk5UEALw_wcB).
+My name is **Victor Kodama** and I have been working as a Software Development Analyst at [V2COM](https://v2com.com/) since 2021.
 
 I am passionate about teaching and learning new technologies.
 
