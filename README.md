@@ -1,6 +1,6 @@
 ### Hi there! 😄👋
 
-My name is **Victor Kodama** and I have been working as a Software Development Analyst at [V2COM](https://v2com.com/) since 2021.
+My name is **Victor Kodama** and I have been working as a Software Development Analyst at [Itaú Unibanco](https://www.itau.com.br/) since 2022.
 
 I am passionate about teaching and learning new technologies.
 
